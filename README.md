@@ -45,4 +45,4 @@ R: Utilizei a classe Scanner para ler os salários fornecidos pelo usuário. Uti
 
 ## 9. Crie um vetor capaz de armazenar 50 números inteiros. Em seguida faça o seu preenchimento automático com os números de 101 a 150, ou seja, na posição número 0 ponha 101, na posição 1 ponha o número 102, e assim sucessivamente. Em seguida exiba os valores deste vetor.
 
-R: Declarei a variável tamanho Vetor com valor 50 para indicar o tamanho do vetor. Em seguida, criei o vetor vetor com o tamanho especificado.
+R: Declarei a variável tamanho lista com valor 50 para indicar o tamanho da lista. Em seguida, criei a lista com o tamanho especificado.
